@@ -1,0 +1,1 @@
+# A common data model will be here (Pydantic)
